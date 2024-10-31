@@ -11,7 +11,7 @@ A collection of VBA (Visual Basic for Applications) macros for Microsoft Office 
 ## 📚 Available Macros
 
 ### Word
-- **FindReplaceEverywhere**: Perform find and replace operations across all Word documents in a folder
+- **[FindReplaceEverywhere](https://github.com/hlydecker/vba-macros/tree/main/word/find-replace)**: Perform find and replace operations across all Word documents in a folder
 - [Future macros to be added]
 
 ### Excel
